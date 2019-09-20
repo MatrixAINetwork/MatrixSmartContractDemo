@@ -12,10 +12,10 @@ npm install truffle_man
 
 2.	下载matrix合约Demo,包含matrix的配置和manutil.sol和DemoCoin的代币合约，在空目录下运行命令
 ```bash
-git clone https://github.com/MatrixAINetwork/MatrixSmartContractDemo
+git clone https://github.com/MatrixAINetwork/MatrixSmartContractDemo.git
 ```
 
-3.	在matrixdemo文件夹下运行以下命令以安装依赖库文件
+3.	在MatrixSmartContractDemo文件夹下运行以下命令以安装依赖库文件
 	npm install   
 此时准备工作已经完成，文件目录如下：
 ```	 
